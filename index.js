@@ -27,5 +27,5 @@ function LLamarCarpetas() {
 };
 
 LLamarCarpetas();
-
+//Aquí va tu token de tu bot
 client.login("");
