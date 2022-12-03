@@ -19,7 +19,7 @@ function LLamarCarpetas() {
             console.log(`\n`)
             console.log("Cargando carpeta >> " + llamar);
         } catch (e) {
-            console.log("Error Error encontrado:")
+            console.log("Error encontrado:")
             console.log(e)
         }
 
