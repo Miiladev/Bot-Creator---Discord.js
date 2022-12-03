@@ -15,7 +15,7 @@ module.exports = (client) => {
                     console.log("El evento " + archivo + " cargo correctamente")
 
         } catch (e) {
-            console.log("Error encontrado: " + e)
+            console.log("Error encontrado:")
             console.log(e)
         }
     }
