@@ -2,7 +2,7 @@
 
 
 #  Bot **Creator** simple para **Discord** 
-> El bot fue creado por **Miila**, si necesitas tienes problemas al ocupar el bot no dudes en escribirme
+> El bot fue creado por **Miila**, si tienes problemas al ocupar el bot no dudes en escribirme
 
 > Dueño: Miila#9261
 > Discord & Soporte: https://discord.gg/yHR67nQQWX
