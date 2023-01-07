@@ -24,8 +24,10 @@ El token se obtiene en el **Portal** de discord
 
  > Hacer click en el boton de **Reset Token**, la pagina te mostrara tu nuevo token y ese **Token** debes copiar y pegarlo en el archivo index en la ultima parte `client.login("AQUI VA EL TOKEN DEL BOT");`
 
+ ![image](https://user-images.githubusercontent.com/116461642/211118181-7698e928-f3af-408a-8640-d674b97f8dff.png)
+
  ![image (2)](https://user-images.githubusercontent.com/116461642/211118605-7044b3e3-b8b9-433b-8a92-b035426a6fcf.png)
 
- ![image](https://user-images.githubusercontent.com/116461642/211118181-7698e928-f3af-408a-8640-d674b97f8dff.png)
+
 
 
