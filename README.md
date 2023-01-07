@@ -6,10 +6,8 @@
 
 > Dueño: Miila#9261
 > Discord & Soporte: https://discord.gg/yHR67nQQWX
-
-
-
-
+<br>
+<br>
 * Si el bot te gusta no dudes en compartir con tus amigos
 
 ## ⚠️ MPORTANTE ⚠️
