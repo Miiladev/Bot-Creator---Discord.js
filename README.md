@@ -10,7 +10,7 @@
 * Si el bot te gusta no dudes en compartirlo con tus amigos
 
 ## ⚠️ MPORTANTE ⚠️
-El bot necesita de los intent de discord y un token para funcionar.
+El bot necesita de los `INTENT` de discord y un `TOKEN` para funcionar.
 
 Los intent se activan en el **Portal** de discord
 
