@@ -5,7 +5,9 @@
 > El bot fue creado por **Miila**, si tienes problemas al ocupar el bot no dudes en escribirme
 
 > Dueño: Miila#9261
-> Discord & Soporte: https://discord.gg/yHR67nQQWX<br><br>
+> Discord & Soporte: https://discord.gg/yHR67nQQWX
+
+
 * Si el bot te gusta no dudes en compartir con tus amigos
 
 ## ⚠️ MPORTANTE ⚠️
