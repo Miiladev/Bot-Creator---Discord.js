@@ -16,11 +16,7 @@ module.exports = {
         ═════════════════════════════════════════════════════
 
          > ${client.user.username} | ${client.user.id}
-
-         > Creador:
-            - NeblaK#8948
-                > Github: https://github.com/ElNee-san
-                > Discord: https://discord.gg/yHR67nQQWX
+         > Discord: https://discord.gg/yHR67nQQWX
 
         ═════════════════════════════════════════════════════
         `)
@@ -28,7 +24,7 @@ module.exports = {
 
         client.user.setPresence({
             activities: [
-                { name: `Creado por: NeblaK#8948` },
+                { name: `Creado por: Miiladev` },
             ],
             status: "dnd"
         });
